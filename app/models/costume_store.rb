@@ -1,3 +1,3 @@
-class CostumeStore < ActiveRecord::Migration[5.2]
+class CostumeStore < ActiveRecord::Base
   
 end
